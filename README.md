@@ -1,33 +1,33 @@
 # Hello, I'm [caoxian] 👋
 
-✨ **Profile README 说明**  
-这个仓库 (`vnddddd/vnddddd`) 是一个特殊配置：它的 `README.md` 会直接展示在我的 GitHub 个人主页！  
-（通过创建与用户名同名的仓库实现，[官方文档](https://docs.github.com/zh/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)）
+✨ **Profile README Description**  
+This repository (`vnddddd/vnddddd`) has a special configuration: its `README.md` is directly displayed on my GitHub profile page!  
+(Achieved by creating a repository with the same name as the username, [official documentation](https://docs.github.com/zh/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme))
 
 ---
 
-### 🛠️ 技术栈与工具
+### 🛠️ Tech Stack and Tools
 [![SkillIcons](https://skillicons.dev/icons?i=python,js,react,nodejs,git,aws,docker,postgres,vim,linux)](https://skillicons.dev)  
-**常用领域**: Web开发 | 自动化脚本 | 数据分析
+**Common Areas**: Web Development | Automation Scripts | Data Analysis
 
 ---
 
-### 🌱 近期项目
-- **[Project 1]([https://github.com/vnddddd/project1](https://github.com/vnddddd/singboxguize))**  
-  singbox的自用规则。
+### 🌱 Recent Projects
+- **[Singbox Rules]([https://github.com/vnddddd/project1](https://github.com/vnddddd/singboxguize))**  
+  Custom rules for Singbox.
   
 
 ---
 
-### 📊 活跃数据
+### Activity Data
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vnddddd&show_icons=true&theme=radical)](https://github.com/vnddddd)  
-*（数据通过 [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) 动态生成）*
+*(Data dynamically generated with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
 
 ---
 
-### 📫 联系我
+### 📫 Contact Me
 [![Email](https://img.shields.io/badge/vndddddli@gmail.com-blue?style=flat&logo=gmail)](mailto:vndddddli@gmail.com)  
 
 ---
 
-⭐ **提示**: 此页面内容会持续更新，欢迎 `Watch` 本仓库获取通知！
+⭐ **Note**: The content of this page will be continuously updated. Feel free to `Watch` this repository for notifications! 
