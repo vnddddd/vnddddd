@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, I'm [caoxian] 👋
 
-<!--
-**vnddddd/vnddddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **Profile README 说明**  
+这个仓库 (`vnddddd/vnddddd`) 是一个特殊配置：它的 `README.md` 会直接展示在我的 GitHub 个人主页！  
+（通过创建与用户名同名的仓库实现，[官方文档](https://docs.github.com/zh/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)）
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ 技术栈与工具
+[![SkillIcons](https://skillicons.dev/icons?i=python,js,react,nodejs,git,aws,docker,postgres,vim,linux)](https://skillicons.dev)  
+**常用领域**: Web开发 | 自动化脚本 | 数据分析
+
+---
+
+### 🌱 近期项目
+- **[Project 1](https://github.com/vnddddd/project1)**  
+  用一句话描述你的项目核心目标，例如：基于 React 的高性能数据可视化工具。
+  
+- **[Project 2](https://github.com/vnddddd/project2)**  
+  另一个项目的简短说明，突出技术亮点或成果。
+
+---
+
+### 📊 活跃数据
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vnddddd&show_icons=true&theme=radical)](https://github.com/vnddddd)  
+*（数据通过 [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) 动态生成）*
+
+---
+
+### 📫 联系我
+[![Email](https://img.shields.io/badge/Email-YourEmail@domain.com-blue?style=flat&logo=gmail)](mailto:vndddddli@gmail.com)  
+
+---
+
+⭐ **提示**: 此页面内容会持续更新，欢迎 `Watch` 本仓库获取通知！
