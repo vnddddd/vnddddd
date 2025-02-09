@@ -13,11 +13,9 @@
 ---
 
 ### 🌱 近期项目
-- **[Project 1](https://github.com/vnddddd/project1)**  
-  用一句话描述你的项目核心目标，例如：基于 React 的高性能数据可视化工具。
+- **[Project 1]([https://github.com/vnddddd/project1](https://github.com/vnddddd/singboxguize))**  
+  singbox的自用规则。
   
-- **[Project 2](https://github.com/vnddddd/project2)**  
-  另一个项目的简短说明，突出技术亮点或成果。
 
 ---
 
