@@ -28,7 +28,7 @@
 ---
 
 ### 📫 联系我
-[![Email](https://img.shields.io/badge/Email-YourEmail@domain.com-blue?style=flat&logo=gmail)](mailto:vndddddli@gmail.com)  
+[![Email](https://img.shields.io/badge/vndddddli@gmail.com-blue?style=flat&logo=gmail)](mailto:vndddddli@gmail.com)  
 
 ---
 
